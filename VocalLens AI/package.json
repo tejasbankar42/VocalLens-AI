@@ -1,0 +1,22 @@
+{
+  "name": "vocallens-ai",
+  "version": "1.0.0",
+  "description": "VocalLens AI - Contrastive Speech Analytics & Temporal Flaw Grounding",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "preview": "npm run preview --prefix frontend",
+    "install:frontend": "npm install --prefix frontend"
+  },
+  "keywords": [
+    "speech-analysis",
+    "fastapi",
+    "whisper",
+    "parselmouth",
+    "react",
+    "vite"
+  ],
+  "author": "VocalLens AI Team",
+  "license": "MIT"
+}

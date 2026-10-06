@@ -1,0 +1,268 @@
+{
+  "flawed/flawed_01_sample_01_interview.wav": [
+    {
+      "type": "filler",
+      "start": 0.3,
+      "end": 1.5,
+      "severity": "high",
+      "evidence": "Filler 'um' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "filler",
+      "start": 3.88,
+      "end": 5.08,
+      "severity": "medium",
+      "evidence": "Filler 'like' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "long_pause",
+      "start": 8.11,
+      "end": 10.31,
+      "severity": "high",
+      "evidence": "2.2 s silence gap",
+      "tip": "Reduce dead silences; keep pauses under 0.8s."
+    },
+    {
+      "type": "filler",
+      "start": 10.31,
+      "end": 11.51,
+      "severity": "high",
+      "evidence": "Filler 'uh' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "repetition",
+      "start": 16.07,
+      "end": 19.21,
+      "severity": "medium",
+      "evidence": "Word repetition 'we we'.",
+      "tip": "Speak in measured phrases to avoid false-starts."
+    },
+    {
+      "type": "long_pause",
+      "start": 19.41,
+      "end": 21.21,
+      "severity": "medium",
+      "evidence": "1.8 s silence gap",
+      "tip": "Reduce dead silences; keep pauses under 0.8s."
+    },
+    {
+      "type": "filler",
+      "start": 21.21,
+      "end": 22.41,
+      "severity": "medium",
+      "evidence": "Filler 'you know' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    }
+  ],
+  "flawed/flawed_02_sample_02_pitch.wav": [
+    {
+      "type": "filler",
+      "start": 0.3,
+      "end": 1.5,
+      "severity": "high",
+      "evidence": "Filler 'uh' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "filler",
+      "start": 5.6,
+      "end": 6.8,
+      "severity": "medium",
+      "evidence": "Filler 'basically' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "long_pause",
+      "start": 9.47,
+      "end": 11.97,
+      "severity": "high",
+      "evidence": "2.5 s silence gap",
+      "tip": "Reduce dead silences; keep pauses under 0.8s."
+    },
+    {
+      "type": "filler",
+      "start": 11.97,
+      "end": 13.17,
+      "severity": "medium",
+      "evidence": "Filler 'like' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "repetition",
+      "start": 16.31,
+      "end": 19.27,
+      "severity": "medium",
+      "evidence": "Word repetition 'because because'.",
+      "tip": "Speak in measured phrases to avoid false-starts."
+    },
+    {
+      "type": "long_pause",
+      "start": 19.47,
+      "end": 21.37,
+      "severity": "medium",
+      "evidence": "1.9 s silence gap",
+      "tip": "Reduce dead silences; keep pauses under 0.8s."
+    },
+    {
+      "type": "filler",
+      "start": 21.37,
+      "end": 22.57,
+      "severity": "high",
+      "evidence": "Filler 'matlab' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    }
+  ],
+  "flawed/flawed_03_sample_03_leadership.wav": [
+    {
+      "type": "filler",
+      "start": 0.3,
+      "end": 1.5,
+      "severity": "high",
+      "evidence": "Filler 'um' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "long_pause",
+      "start": 4.94,
+      "end": 7.04,
+      "severity": "high",
+      "evidence": "2.1 s silence gap",
+      "tip": "Reduce dead silences; keep pauses under 0.8s."
+    },
+    {
+      "type": "filler",
+      "start": 7.04,
+      "end": 8.24,
+      "severity": "medium",
+      "evidence": "Filler 'like' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "repetition",
+      "start": 11.23,
+      "end": 14.03,
+      "severity": "medium",
+      "evidence": "Word repetition 'mostly mostly'.",
+      "tip": "Speak in measured phrases to avoid false-starts."
+    },
+    {
+      "type": "long_pause",
+      "start": 14.23,
+      "end": 15.93,
+      "severity": "medium",
+      "evidence": "1.7 s silence gap",
+      "tip": "Reduce dead silences; keep pauses under 0.8s."
+    },
+    {
+      "type": "filler",
+      "start": 15.93,
+      "end": 17.13,
+      "severity": "high",
+      "evidence": "Filler 'uh' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    }
+  ],
+  "flawed/flawed_04_sample_04_support.wav": [
+    {
+      "type": "filler",
+      "start": 0.3,
+      "end": 1.5,
+      "severity": "medium",
+      "evidence": "Filler 'like' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "long_pause",
+      "start": 5.16,
+      "end": 7.46,
+      "severity": "high",
+      "evidence": "2.3 s silence gap",
+      "tip": "Reduce dead silences; keep pauses under 0.8s."
+    },
+    {
+      "type": "filler",
+      "start": 7.46,
+      "end": 8.66,
+      "severity": "medium",
+      "evidence": "Filler 'basically' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "repetition",
+      "start": 11.97,
+      "end": 15.98,
+      "severity": "medium",
+      "evidence": "Word repetition 'I I'.",
+      "tip": "Speak in measured phrases to avoid false-starts."
+    },
+    {
+      "type": "long_pause",
+      "start": 16.18,
+      "end": 17.98,
+      "severity": "medium",
+      "evidence": "1.8 s silence gap",
+      "tip": "Reduce dead silences; keep pauses under 0.8s."
+    },
+    {
+      "type": "filler",
+      "start": 17.98,
+      "end": 19.18,
+      "severity": "medium",
+      "evidence": "Filler 'toh' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    }
+  ],
+  "flawed/flawed_05_sample_05_research.wav": [
+    {
+      "type": "filler",
+      "start": 0.3,
+      "end": 1.5,
+      "severity": "medium",
+      "evidence": "Filler 'like' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "long_pause",
+      "start": 4.36,
+      "end": 6.76,
+      "severity": "high",
+      "evidence": "2.4 s silence gap",
+      "tip": "Reduce dead silences; keep pauses under 0.8s."
+    },
+    {
+      "type": "filler",
+      "start": 6.76,
+      "end": 7.96,
+      "severity": "high",
+      "evidence": "Filler 'um' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    },
+    {
+      "type": "repetition",
+      "start": 10.73,
+      "end": 14.1,
+      "severity": "medium",
+      "evidence": "Word repetition 'we we'.",
+      "tip": "Speak in measured phrases to avoid false-starts."
+    },
+    {
+      "type": "long_pause",
+      "start": 14.3,
+      "end": 16.3,
+      "severity": "high",
+      "evidence": "2.0 s silence gap",
+      "tip": "Reduce dead silences; keep pauses under 0.8s."
+    },
+    {
+      "type": "filler",
+      "start": 16.3,
+      "end": 17.5,
+      "severity": "medium",
+      "evidence": "Filler 'you know' used.",
+      "tip": "Pause silently instead of verbalizing filler sounds."
+    }
+  ]
+}

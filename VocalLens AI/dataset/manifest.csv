@@ -1,0 +1,11 @@
+filename,category,speaker_id,duration,script_id
+ideal/ideal_01_sample_01_interview.wav,ideal,speaker_2,29.39,sample_01_interview
+flawed/flawed_01_sample_01_interview.wav,flawed,speaker_2,26.55,sample_01_interview
+ideal/ideal_02_sample_02_pitch.wav,ideal,speaker_1,30.1,sample_02_pitch
+flawed/flawed_02_sample_02_pitch.wav,flawed,speaker_1,25.92,sample_02_pitch
+ideal/ideal_03_sample_03_leadership.wav,ideal,speaker_2,26.55,sample_03_leadership
+flawed/flawed_03_sample_03_leadership.wav,flawed,speaker_2,21.03,sample_03_leadership
+ideal/ideal_04_sample_04_support.wav,ideal,speaker_1,26.91,sample_04_support
+flawed/flawed_04_sample_04_support.wav,flawed,speaker_1,23.12,sample_04_support
+ideal/ideal_05_sample_05_research.wav,ideal,speaker_2,28.99,sample_05_research
+flawed/flawed_05_sample_05_research.wav,flawed,speaker_2,20.84,sample_05_research
